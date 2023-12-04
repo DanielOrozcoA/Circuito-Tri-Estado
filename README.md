@@ -1,4 +1,4 @@
-# Circuito-Tri-Estado
+#  Tri-state Circuit
 ## Description
 In this project, using a microcontroller, a tri-state integrated circuit and the activation of four buttons, a hexadecimal counter is executed on a seven-segment display. The sending and transmission of information is carried out over the same data bus.
 
